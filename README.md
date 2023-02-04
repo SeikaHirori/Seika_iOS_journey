@@ -8,6 +8,9 @@ This will contain my progress as I learn iOS development.
 - Primary guidelines for projects:
     - https://www.hackingwithswift.com/100/swiftui
 
+Secondaries objectives once comfortable with SwiftUI:
+- Implement TDD in context of Functional/ End-to-End Testing
+
 
 # Phase 1 - Swift Lang | Adapting to the Syntax
 [x] Status: Completed on 2/2/2023
