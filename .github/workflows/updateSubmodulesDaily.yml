@@ -1,9 +1,11 @@
 ### FULL CREDIT FOR automating updating submodules: 
 # https://stackoverflow.com/a/67059629
 
-# Info on running workflow at fixed times:
+### Info on running workflow at fixed times:
 # https://jasonet.co/posts/scheduled-actions/
 
+### Token format to use
+# https://github.com/actions/checkout/issues/298#issuecomment-820748989
 
 
 # This is a basic workflow to help you get started with Actions
