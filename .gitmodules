@@ -4,3 +4,6 @@
 [submodule "projects/hacking with swift/WeSplit"]
 	path = projects/hacking with swift/WeSplit
 	url = https://github.com/SeikaHirori/WeSplit
+[submodule "learning materials/TDD-iOS-Dev-with-Swift---4th-Edition"]
+	path = learning materials/TDD-iOS-Dev-with-Swift---4th-Edition
+	url = https://github.com/SeikaHirori/TDD-iOS-Dev-with-Swift---4th-Edition
