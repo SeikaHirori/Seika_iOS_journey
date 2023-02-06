@@ -1,3 +1,6 @@
 [submodule "personal-exercism-practice"]
 	path = personal-exercism-practice
 	url = https://github.com/SeikaHirori/personal-exercism-practice
+[submodule "projects/hacking with swift/WeSplit"]
+	path = projects/hacking with swift/WeSplit
+	url = https://github.com/SeikaHirori/WeSplit
