@@ -1,12 +1,14 @@
-This will contain my progress as I learn iOS development.
+This will contain my progress as I learn iOS development. It consists of both completed and work-in-progress (WIP) projects. It also consists of learning materials, resources, and personal notes I have uesd during my progress!
 
+To streamline the process of linking to the various folders, I use Git's submodules functionality. At 7pm UTC, GitHub Actions will automatically update the submodules if there are updates to them.
+
+___
 # Phase 2 - Start building projects
 [ ] Status: In-progress
 
 ***Objective***: Start building projects with SwiftUI using guidelines from Paul Hudson(@twostraws)'s [Hacking with Swift using SwiftUI](https://www.hackingwithswift.com/100/swiftui) (HwS)
 - My repo for projects using HwS's specificiations:
     - https://github.com/SeikaHirori/Seika_iOS_journey/tree/main/projects/hacking%20with%20swift
-
 
 Secondaries objectives once comfortable with SwiftUI:
 - Implement TDD in context of Functional/ End-to-End Testing via textbook:
