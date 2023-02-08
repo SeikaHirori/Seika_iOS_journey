@@ -10,3 +10,6 @@
 [submodule "projects/hacking with swift/unit-conversion"]
 	path = projects/hacking with swift/unit-conversion
 	url = https://github.com/SeikaHirori/unit-conversion
+[submodule "projects/hacking with swift/unitConversion_iOS"]
+	path = projects/hacking with swift/unitConversion_iOS
+	url = https://github.com/SeikaHirori/unitConversion_iOS
