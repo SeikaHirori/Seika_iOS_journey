@@ -7,3 +7,6 @@
 [submodule "learning materials/TDD-iOS-Dev-with-Swift---4th-Edition"]
 	path = learning materials/TDD-iOS-Dev-with-Swift---4th-Edition
 	url = https://github.com/SeikaHirori/TDD-iOS-Dev-with-Swift---4th-Edition
+[submodule "projects/hacking with swift/unit-conversion"]
+	path = projects/hacking with swift/unit-conversion
+	url = https://github.com/SeikaHirori/unit-conversion
