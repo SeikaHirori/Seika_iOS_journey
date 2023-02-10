@@ -13,3 +13,6 @@
 [submodule "projects/hacking with swift/unitConversion_iOS"]
 	path = projects/hacking with swift/unitConversion_iOS
 	url = https://github.com/SeikaHirori/unitConversion_iOS
+[submodule "projects/hacking with swift/Guess-the-Flag"]
+	path = projects/hacking with swift/Guess-the-Flag
+	url = https://github.com/SeikaHirori/Guess-the-Flag
