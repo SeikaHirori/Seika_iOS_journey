@@ -16,3 +16,6 @@
 [submodule "projects/hacking with swift/Guess-the-Flag"]
 	path = projects/hacking with swift/Guess-the-Flag
 	url = https://github.com/SeikaHirori/Guess-the-Flag
+[submodule "projects/hacking with swift/ViewsAndModifiers"]
+	path = projects/hacking with swift/ViewsAndModifiers
+	url = https://github.com/SeikaHirori/ViewsAndModifiers
