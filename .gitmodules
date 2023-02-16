@@ -19,3 +19,9 @@
 [submodule "projects/hacking with swift/ViewsAndModifiers"]
 	path = projects/hacking with swift/ViewsAndModifiers
 	url = https://github.com/SeikaHirori/ViewsAndModifiers
+[submodule "projects/hacking with swift/janken_RockPaperScissors"]
+	path = projects/hacking with swift/janken_RockPaperScissors
+	url = https://github.com/SeikaHirori/janken_RockPaperScissors
+[submodule "projects/personal projects/janken_RockPaperScissors"]
+	path = projects/personal projects/janken_RockPaperScissors
+	url = https://github.com/SeikaHirori/janken_RockPaperScissors
