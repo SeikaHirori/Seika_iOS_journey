@@ -2,7 +2,8 @@
 
 - At 7pm UTC, GitHub Actions will automatically update the submodules if there are updates to them. This is to streamline the process of linking to the various folders and files.
 
-- I write up my progress with iOS development, which can be found here: [https://seikahirori.blogspot.com/](https://seikahirori.blogspot.com/)
+- I write up my progress with iOS development, which can be found here: 
+    - [https://seikahirori.blogspot.com/](https://seikahirori.blogspot.com/)
 
 ___
 # Phase 2 - Start building projects
