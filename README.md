@@ -1,3 +1,10 @@
+UPDATE: 3/25/2023
+
+Moved my progress onto my GitHub Page: [https://seikahirori.github.io/](https://seikahirori.github.io/)
+- Reason: There's better automation of updating my iOS journey on my personal website.
+
+---
+
 - This will contain my progress as I learn iOS development. It consists of both completed and work-in-progress (WIP) projects. It also consists of learning materials, resources, and personal notes I have uesd during my progress!
 
 - At 7pm UTC, GitHub Actions will automatically update the submodules if there are updates to them. This is to streamline the process of linking to the various folders and files.
